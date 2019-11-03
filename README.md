@@ -1,7 +1,6 @@
 ## MusicTheory.ai
 
-Intelligent music generation, made possible with progression-trained LSTM recurrent models using magenta.js and tensorflow.js
-
+Intelligent theory-based music generation with Magenta and Tensorflow. Currently under development by HopAI.
 [![Transcription](./screenshots/main.png 'Transcription')](http://musictheory.ai)
 
 ## Build Setup
