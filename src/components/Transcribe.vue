@@ -26,12 +26,6 @@
             <div id="loaded">
                 <div class="introduction">
                     <input type="file" id="file-input" @click="rotate" title=" ">
-
-                    <!-- <p>
-                        Upload an
-                        <span class="secondary--text">audio file</span>
-                    </p>-->
-                    <!--TODO: add note that audio will be transcribed to 8 quantized time steps per quarter-->
                     <v-btn
                         outline
                         large
