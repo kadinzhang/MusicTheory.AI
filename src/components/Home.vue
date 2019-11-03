@@ -72,7 +72,6 @@
 </template>
 
 <script>
-// import { TweenMax } from "gsap";
 import AudioSVG from "./ui/AudioSVG";
 import ProgressionSVG from "./ui/ProgressionSVG";
 import Loader from "./ui/Loader";
