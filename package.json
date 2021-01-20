@@ -17,7 +17,7 @@
 		"ajv": "^6.9.1",
 		"express": "^4.16.4",
 		"express-force-https": "^1.0.0",
-		"gsap": "^2.1.2",
+		"gsap": "^3.6.0",
 		"node-sass": "^4.13.0",
 		"sass-loader": "^7.1.0",
 		"vue": "^2.6.9",
